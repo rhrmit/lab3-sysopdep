@@ -21,3 +21,4 @@ jobs:
         with:
           name: my-artifact
           path: foo.txt
+	  overwrite: true
